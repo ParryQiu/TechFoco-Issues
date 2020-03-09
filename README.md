@@ -1,4 +1,6 @@
-TechFoco | Focus on Technology
+## TechFoco | Focus on Technology
+
+[https://techfoco.com/](https://techfoco.com/)
 
 站点每日定时聚合全网软件开发技术博文，并对文章进行自动 tag 以及摘要格式化；
 
